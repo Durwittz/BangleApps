@@ -891,6 +891,19 @@
       {"name":"marioclock.img","url":"marioclock-icon.js","evaluate":true}
     ]
   },
+  { "id": "marioclockjex",
+    "name": "Mario Clock Jex",
+    "icon": "marioclockjex.png",
+    "version":"0.01",
+    "description": "Animated Mario clock, jumps to change the time! Now with color",
+    "tags": "clock,mario,retro, jex",
+    "type": "clock",
+    "allow_emulator":true,
+    "storage": [
+      {"name":"marioclockjex.app.js","url":"marioclockjex-app.js"},
+      {"name":"marioclockjex.img","url":"marioclockjex-icon.js","evaluate":true}
+    ]
+  },
   { "id": "cliock",
     "name": "Commandline-Clock",
     "shortName":"CLI-Clock",
